@@ -1,2 +1,3 @@
-# Automatizacion_Test
-Automatizacion E2E con selenium WebDriver y Automatizacion Apis con Karate
+## Automatizacion_Test
+
+Se realiza Automatizacion de Apis en la pagina [petStoreSwagger](https://petstore.swagger.io/), todo con [Karate](https://github.com/karatelabs/karate)
