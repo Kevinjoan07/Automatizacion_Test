@@ -1,6 +1,6 @@
 ## Automatizacion_Test
 
-Se realiza la automatización en la pagina [Saucedemo.com](https://www.saucedemo.com/) del flujo de compra de 2 items de la tienda,  todo realizado con [Gradle](https://gradle.org/), [Java](https://www.java.com/es/), [SerenityBDD](https://serenity-bdd.github.io/theserenitybook/latest/index.html), [Cucumber](https://cucumber.io/) y Screenplay.
+Se realiza la automatización en la pagina [Saucedemo.com](https://www.saucedemo.com/) del flujo comprar 2 items de la tienda,  todo realizado con [Gradle](https://gradle.org/), [Java](https://www.java.com/es/), [SerenityBDD](https://serenity-bdd.github.io/theserenitybook/latest/index.html), [Cucumber](https://cucumber.io/) y Screenplay.
 
 
 ## Ejecucion
