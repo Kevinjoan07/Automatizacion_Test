@@ -19,7 +19,7 @@ Al momento de ejecutar el proyecto y obtener el reporte debemos ubicarnos en la 
 Tambien luego de ejecutar el comando, este codigo contiene  una funcion para generar un reporte un poco mas agradable y profecional el cual se ubica en la siguiente ruta 
 
 ```yml
-   <ProyectoName>\build\cucumber-html-reports\overview-features
+   <ProyectoName>\build\cucumber-html-reports\overview-features.html
 ```
 
 
