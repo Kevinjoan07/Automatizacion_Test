@@ -5,6 +5,12 @@ Se realiza Automatizacion de la Creacion, Busqueda, Actualizacion y Eliminacion 
 
 ## Ejecucion
 
+Para ejecutar y obtener el reporte debemos ubicarnos en la carpeta del proyecto y abrir el `CMD` para ejecutar el siguiente comando
+
+```yml
+    gradle clean test 
+```
+
 Al momento de ejecutar el proyecto y obtener el reporte debemos ubicarnos en la carpeta del proyecto en la ruta , este es el reporte nativo del framework Karate
 ```yml
     <ProyectoName>\target\karate-reports\karate-summary.html
@@ -12,7 +18,7 @@ Al momento de ejecutar el proyecto y obtener el reporte debemos ubicarnos en la 
 
 Tambien luego de ejecutar este codigo contiene  una funcion para generar un reporte un poco mas agradable y profecional el cual se ubica en la siguiente ruta 
 
-```cmd
+```yml
    <ProyectoName>\build\cucumber-html-reports\overview-features
 ```
 
