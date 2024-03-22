@@ -11,12 +11,12 @@ Para ejecutar y obtener el reporte debemos ubicarnos en la carpeta del proyecto 
     gradle clean test 
 ```
 
-Al momento de ejecutar el proyecto y obtener el reporte debemos ubicarnos en la carpeta del proyecto en la ruta , este es el reporte nativo del framework Karate
+Al momento de ejecutar el proyecto y obtener el reporte debemos ubicarnos en la carpeta del proyecto en la ruta (este es el reporte nativo del framework Karate)
 ```yml
     <ProyectoName>\target\karate-reports\karate-summary.html
 ```
 
-Tambien luego de ejecutar este codigo contiene  una funcion para generar un reporte un poco mas agradable y profecional el cual se ubica en la siguiente ruta 
+Tambien luego de ejecutar el comando, este codigo contiene  una funcion para generar un reporte un poco mas agradable y profecional el cual se ubica en la siguiente ruta 
 
 ```yml
    <ProyectoName>\build\cucumber-html-reports\overview-features
